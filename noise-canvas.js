@@ -3,7 +3,7 @@
  * Author: Eva Perman
  */
 
-function EasyGlitch(canvasNode){
+function noiseCanvas(canvasNode){
 
 /*
  * s is for self
